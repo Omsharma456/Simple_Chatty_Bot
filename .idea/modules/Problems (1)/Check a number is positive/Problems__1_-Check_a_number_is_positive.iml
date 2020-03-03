@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems (1)/Check a number is positive">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (1)/Check a number is positive/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (1)/Check a number is positive/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (1)/Check a number is positive/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Boxes_main" target="11" />
+      <module name="Problems-Boxes_test" target="11" />
+      <module name="Problems-Individual_taxes_main" target="11" />
+      <module name="Problems-Individual_taxes_test" target="11" />
+      <module name="Problems-Right_Rotation_main" target="11" />
+      <module name="Problems-Right_Rotation_test" target="11" />
+      <module name="Problems-The_angle_between_vectors_main" target="11" />
+      <module name="Problems-The_angle_between_vectors_test" target="11" />
+      <module name="Problems-The_longest_ascending_sequence_main" target="11" />
+      <module name="Problems-The_longest_ascending_sequence_test" target="11" />
+      <module name="Problems-The_maximum_pairwise_product_main" target="11" />
+      <module name="Problems-The_maximum_pairwise_product_test" target="11" />
+      <module name="Problems-Triples_main" target="11" />
+      <module name="Problems-Triples_test" target="11" />
+      <module name="Problems__10_-Convert_a_date_main" target="11" />
+      <module name="Problems__10_-Convert_a_date_test" target="11" />
+      <module name="Problems__11_-First_digit_main" target="11" />
+      <module name="Problems__11_-First_digit_test" target="11" />
+      <module name="Problems__12_-Integer_part_of_a_number_main" target="11" />
+      <module name="Problems__12_-Integer_part_of_a_number_test" target="11" />
+      <module name="Problems__13_-The_sign_of_a_number_main" target="11" />
+      <module name="Problems__13_-The_sign_of_a_number_test" target="11" />
+      <module name="Problems__14_-Vowel_or_not_main" target="11" />
+      <module name="Problems__14_-Vowel_or_not_test" target="11" />
+      <module name="Problems__15_-Sum_of_numbers_in_the_range_main" target="11" />
+      <module name="Problems__15_-Sum_of_numbers_in_the_range_test" target="11" />
+      <module name="Problems__1_-Check_a_number_is_positive_main" target="11" />
+      <module name="Problems__1_-Check_a_number_is_positive_test" target="11" />
+      <module name="Problems__1_-From_string_to_a_number_main" target="11" />
+      <module name="Problems__1_-From_string_to_a_number_test" target="11" />
+      <module name="Problems__2_-Check_a_number_is_positive_main" target="11" />
+      <module name="Problems__2_-Check_a_number_is_positive_test" target="11" />
+      <module name="Problems__2_-The_star_figure_main" target="11" />
+      <module name="Problems__2_-The_star_figure_test" target="11" />
+      <module name="Problems__3_-Check_a_number_is_positive_main" target="11" />
+      <module name="Problems__3_-Check_a_number_is_positive_test" target="11" />
+      <module name="Problems__3_-Symmetric_matrix_main" target="11" />
+      <module name="Problems__3_-Symmetric_matrix_test" target="11" />
+      <module name="Problems__4_-Check_a_number_is_positive_main" target="11" />
+      <module name="Problems__4_-Check_a_number_is_positive_test" target="11" />
+      <module name="Problems__4_-From_string_to_a_number_main" target="11" />
+      <module name="Problems__4_-From_string_to_a_number_test" target="11" />
+      <module name="Problems__5_-Check_a_number_is_positive_main" target="11" />
+      <module name="Problems__5_-Check_a_number_is_positive_test" target="11" />
+      <module name="Problems__5_-Replacing_'a'_with_'b'_main" target="11" />
+      <module name="Problems__5_-Replacing_'a'_with_'b'_test" target="11" />
+      <module name="Problems__6_-Check_a_number_is_positive_main" target="11" />
+      <module name="Problems__6_-Check_a_number_is_positive_test" target="11" />
+      <module name="Problems__6_-Replacing_'a'_with_'b'_main" target="11" />
+      <module name="Problems__6_-Replacing_'a'_with_'b'_test" target="11" />
+      <module name="Problems__7_-Check_burgs_main" target="11" />
+      <module name="Problems__7_-Check_burgs_test" target="11" />
+      <module name="Problems__8_-Comparing_strings_ignoring_whitespaces_main" target="11" />
+      <module name="Problems__8_-Comparing_strings_ignoring_whitespaces_test" target="11" />
+      <module name="Problems__9_-Piece_of_alphabet_main" target="11" />
+      <module name="Problems__9_-Piece_of_alphabet_test" target="11" />
+      <module name="Simple_Chatty_Bot-task_main" target="11" />
+      <module name="Simple_Chatty_Bot-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
