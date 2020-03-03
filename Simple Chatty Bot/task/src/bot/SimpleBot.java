@@ -52,4 +52,13 @@ public class SimpleBot {
         System.out.println("Congratulations, have a nice day!"); // Do not change this text
 
     }
+
+    public static void main(String[] args) {
+        greet("Aid", "2018"); // change it as you need
+        remindName();
+        guessAge();
+        count();
+        test();
+        end();
+    }
 }
