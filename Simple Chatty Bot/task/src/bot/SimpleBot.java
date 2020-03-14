@@ -1,3 +1,7 @@
+//Created by Om Narayan Sharma.
+//20-02-2020
+//GLA UNIVERSITY
+
 package bot;
 import java.util.Scanner;
 
